@@ -1,10 +1,14 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        int number = 28;
-        String name = "Elli";
-        System.out.println(name);
-        System.out.println(number);
-        
+        boolean isFun = true;
+        char dollar = '$';
+        boolean sad = false;
+        String fullName = "John Doe";
+
+
+        System.out.println("isFun = " + isFun);
+        System.out.println("dollar = " + dollar);
+        System.out.println("sad = " + sad);
+        System.out.println("fullName = " + fullName);
     }
 }

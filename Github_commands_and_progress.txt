@@ -1,6 +1,11 @@
+Git workflow:
+Working Directory -> Index -> Object Store -> GitHub Website
+
 GitHub Commands
 git add <file name> = adding a file to the index
 git add . = adding all files to the index
+git commit -m "<Message>" = commit files from index to object store
+git push origin <branch-name> = to reflect commit on github
 
 GitHub inter-git progress
 

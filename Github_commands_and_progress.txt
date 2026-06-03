@@ -1,0 +1,7 @@
+GitHub Commands
+git add <file name> = adding a file to the index
+git add . = adding all files to the index
+
+GitHub inter-git progress
+
+continue on "renaming and removing files"

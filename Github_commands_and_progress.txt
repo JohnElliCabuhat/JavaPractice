@@ -7,7 +7,10 @@ git add . = adding all files to the index
 git commit -m "<Message>" = commit files from index to object store
 git push origin <branch-name> = to reflect commit on github
 git pull origin <branch name> = to download changes on current working directory
-
+git mv <source-file> <destination-file> = Renames a file in both the working directory and the index.
+git rm <file> = Remove a file from both the working directory and the index (staging area).
+git rm --cache <file> = Remove a file from the index (staging area) but not from the working directory.
+git status = Show the current state of the working directory and index.
 GitHub inter-git progress
 
 continue on "renaming and removing files"

@@ -13,6 +13,4 @@ git rm --cached <file> = Remove a file from the index (staging area) but not fro
 git status = Show the current state of the working directory and index.
 
 
-GitHub inter-git progress
-
-continue on "the basic usage of git"
+GitHub inter-git progress stopped (has payment, will continue on roadmap sh)
